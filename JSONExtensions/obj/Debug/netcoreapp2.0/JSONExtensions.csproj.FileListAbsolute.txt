@@ -1,0 +1,6 @@
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\bin\Debug\netcoreapp2.0\JSONExtensions.deps.json
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\bin\Debug\netcoreapp2.0\JSONExtensions.dll
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\obj\Debug\netcoreapp2.0\JSONExtensions.csprojResolveAssemblyReference.cache
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\obj\Debug\netcoreapp2.0\JSONExtensions.csproj.CoreCompileInputs.cache
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\obj\Debug\netcoreapp2.0\JSONExtensions.AssemblyInfoInputs.cache
+C:\Users\Тагир\source\JsONSExtensions\JsONSExtensions\obj\Debug\netcoreapp2.0\JSONExtensions.AssemblyInfo.cs
