@@ -708,11 +708,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Тагир\\source\\JsONSExtensions\\JsONSExtensions\\JSONExtensions.csproj",
+      "projectUniqueName": "C:\\Users\\Тагир\\source\\JSONExtensions\\JSONExtensions\\JSONExtensions.csproj",
       "projectName": "JSONExtensions",
-      "projectPath": "C:\\Users\\Тагир\\source\\JsONSExtensions\\JsONSExtensions\\JSONExtensions.csproj",
+      "projectPath": "C:\\Users\\Тагир\\source\\JSONExtensions\\JSONExtensions\\JSONExtensions.csproj",
       "packagesPath": "C:\\Users\\Тагир\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Тагир\\source\\JsONSExtensions\\JsONSExtensions\\obj\\",
+      "outputPath": "C:\\Users\\Тагир\\source\\JSONExtensions\\JSONExtensions\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
